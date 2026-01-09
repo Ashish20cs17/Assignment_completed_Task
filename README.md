@@ -1,4 +1,10 @@
-# 📝 Task Tracker – Full Stack Assignment
+
+![Screenshot 1](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s1.jpg)
+
+### Mobile View
+![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s2.jpg)
+
+
 
 **Assignment For:** NOVA Technology  
 **Role:** Full Stack Developer  
@@ -39,10 +45,13 @@ task-tracker/
 ## 📸 Screenshots
 
 ### Desktop View
+## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/Screenshot1.jpg)
+### Desktop View
+![Screenshot 1](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s1.jpg)
 
-![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/Screenshot2.jpg)
+### Mobile View
+![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s2.jpg)
 
 
 
