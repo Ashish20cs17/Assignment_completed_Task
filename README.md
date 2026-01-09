@@ -35,15 +35,13 @@ task-tracker/
 │   └── package.json
 │
 └── README.md
-📸 Screenshots
+
 💻 Desktop View
 
-📱 Mobile View
-
-⚙️ Setup Instructions
+📸 ![Screenshot](frontend/public/screenshot1.jpg)
+![Screenshot](frontend/public/screenshot2.jpg)
+⚙️ ### Setup Instructions
 🔹 Backend Setup
-bash
-Copy code
 cd backend
 npm install
 node index.js
@@ -55,11 +53,9 @@ npm install
 npm start
 Application will run at:
 
-arduino
-Copy code
 http://localhost:3000
-🛠️ Technologies Used
-Frontend
+### 🛠️ Technologies Used
+### Frontend
 React
 
 HTML
@@ -68,7 +64,7 @@ CSS
 
 JavaScript
 
-Backend
+### Backend
 Node.js
 
 Express.js
@@ -76,7 +72,7 @@ Express.js
 Database
 MySQL
 
-Tools
+### Tools
 VS Code
 
 XAMPP
