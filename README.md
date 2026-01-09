@@ -36,10 +36,23 @@ task-tracker/
 │
 └── README.md
 
-💻 Desktop View
+## 📸 Screenshots
 
-📸 ![Screenshot](frontend/public/screenshot1.jpg)
-![Screenshot](frontend/public/screenshot2.jpg)
+### Desktop View
+![Screenshot 1](frontend/public/screenshot1.jpg)
+
+![Screenshot 2](frontend/public/screenshot2.jpg)
+
+---
+
+## ⚙️ Setup Instructions
+
+### Backend Setup
+```bash
+cd backend
+npm install
+node index.js
+
 ⚙️ ### Setup Instructions
 🔹 Backend Setup
 cd backend
