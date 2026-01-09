@@ -39,9 +39,9 @@ task-tracker/
 ## 📸 Screenshots
 
 ### Desktop View
-![Screenshot 1](frontend/public/screenshot1.jpg)
+![Screenshot 1](frontend/public/Screenshot1.jpg)
+![Screenshot 2](frontend/public/Screenshot2.jpg)
 
-![Screenshot 2](frontend/public/screenshot2.jpg)
 
 ---
 
