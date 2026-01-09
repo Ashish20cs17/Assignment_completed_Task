@@ -1,65 +1,83 @@
-# Task Tracker - Full Stack Assignment
+# 📝 Task Tracker – Full Stack Assignment
 
 **Assignment For:** NOVA Technology  
 **Role:** Full Stack Developer  
 
-
-
-## Folder Structure
-task-tracker/
-│
-├── backend/ # Node.js server code
-│ ├── index.js
-│ └── package.json
-│
-├── frontend/ # React frontend code
-│ ├── public/
-│ │ ├── index.html
-│ │ ├── screenshot1.jpg
-│ │ └── screenshot2.jpg
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── TaskForm.jsx
-│ │ │ ├── TaskItem.jsx
-│ │ │ └── TaskList.jsx
-│ │ ├── App.js
-│ │ ├── App.css
-│ │ └── index.js
-│ └── package.json
-
-
-
-## Screenshots
-
-### Desktop View
-![Screenshot 1](public/screenshot1.jpg)
-
-### Mobile View
-![Screenshot 2](public/screenshot2.jpg)
+A full-stack Task Tracker application built using **React**, **Node.js**, **Express**, and **MySQL**.
 
 ---
 
-## Setup Instructions
+## 📁 Project Structure
 
-### Backend
+```text
+task-tracker/
+│
+├── backend/
+│   ├── index.js
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── screenshot1.jpg
+│   │   └── screenshot2.jpg
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── TaskForm.jsx
+│   │   │   ├── TaskItem.jsx
+│   │   │   └── TaskList.jsx
+│   │   │
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── index.js
+│   │
+│   └── package.json
+│
+└── README.md
+📸 Screenshots
+💻 Desktop View
+
+📱 Mobile View
+
+⚙️ Setup Instructions
+🔹 Backend Setup
+bash
+Copy code
 cd backend
+npm install
 node index.js
-
-
-
-### Frontend
-cd Frontend
+🔹 Frontend Setup
+bash
+Copy code
+cd frontend
 npm install
 npm start
+Application will run at:
+
+arduino
+Copy code
 http://localhost:3000
+🛠️ Technologies Used
+Frontend
+React
 
+HTML
 
-### Technologies Used
+CSS
 
-Frontend: React, HTML, CSS, JavaScript
+JavaScript
 
-Backend: Node.js, Express.js
+Backend
+Node.js
 
-Database: MySQL
+Express.js
 
-Tools: VS Code, XAMPP
+Database
+MySQL
+
+Tools
+VS Code
+
+XAMPP
+
