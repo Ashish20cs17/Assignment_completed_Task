@@ -1,9 +1,8 @@
 
 ![Screenshot 1](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s1.jpg)
 
-### Mobile View
-![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s2.jpg)
 
+![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s2.jpg)
 
 
 **Assignment For:** NOVA Technology  
@@ -41,21 +40,6 @@ task-tracker/
 │   └── package.json
 │
 └── README.md
-
-## 📸 Screenshots
-
-### Desktop View
-## Screenshots
-
-### Desktop View
-![Screenshot 1](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s1.jpg)
-
-### Mobile View
-![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/s2.jpg)
-
-
-
----
 
 ## ⚙️ Setup Instructions
 
