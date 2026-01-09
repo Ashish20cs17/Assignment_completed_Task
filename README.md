@@ -39,8 +39,11 @@ task-tracker/
 ## 📸 Screenshots
 
 ### Desktop View
-![Screenshot 1](frontend/public/Screenshot1.jpg)
-![Screenshot 2](frontend/public/Screenshot2.jpg)
+
+![Screenshot 1](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/Screenshot1.jpg)
+
+![Screenshot 2](https://raw.githubusercontent.com/Ashish20cs17/Assignment_completed_Task/main/frontend/public/Screenshot2.jpg)
+
 
 
 ---
